@@ -1,6 +1,9 @@
 # Decline Curve Analysis Web App
 This is a web application for analyzing oil and gas production data using decline curve analysis. The app allows users to upload production data for a well, select a decline model (exponential, hyperbolic, harmonic, or stretched exponential), and visualize the production data and the fitted decline curve. The mean squared error (MSE) between the production data and the fitted decline curve is also displayed.
 
+![Screen Shot 2023-03-05 at 5 22 01 AM](https://user-images.githubusercontent.com/55601081/222941571-52688f96-f38f-418e-a6f7-cb61ce941e33.png)
+
+
 ## Dependencies
 * Dash
 * Plotly
